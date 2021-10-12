@@ -29,3 +29,5 @@ public class VigenereTest {
         assertEquals("How vexingly quick daft zebras jump!", Vigenere.decryptVigenere("Hfe uskinxtx ehicb lztg zeszzg wumg!", "ARIZONA"), "The decrypted output of \"Hfe uskinxtx ehicb lztg zeszzg wumg!\" with the key \"ARIZONA\" should be: " + "How vexingly quick daft zebras jump!");
     }
 }
+
+
